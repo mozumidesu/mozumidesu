@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、mozumidesu です 👋</h1>
+<h1 align="center">こんにちは、mozumi です 👋</h1>
 
 ### 🔭 いま
 
